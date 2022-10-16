@@ -15,8 +15,7 @@ quantity. When increasing quantity, the value can remain the same or go down, (e
 or ”Five fours” would both be valid). The value 1 acts not only as a 1, but is ”wild”, in the sense
 that it can also take on any value. As only a 1 counts as a 1, this in turn reduces the expected
 number of 1s present on a given round. As a result, one can ”improve” upon the previous bet by
-declaring a number of 1s that, if the previous player bet n of a certain dice roll, is > n
-2 . For example, one could bet ”Three ones” after the bet ”Four threes” (as the next viable quantity after three is
+declaring a number of 1s that, if the previous player bet n of a certain dice roll, is > n/2. For example, one could bet ”Three ones” after the bet ”Four threes” (as the next viable quantity after three is
 four, and 4/2 = 2.
 
 A round ends in two ways. Firstly, instead of betting, the player can call Dudo. This means that
